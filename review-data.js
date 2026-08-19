@@ -1,1 +1,1 @@
-window.REVIEW_ARTISTS=[];
+window.REVIEW_ARTISTS=[{"r":11,"a":"MercyMe","h":5.1,"q":"https://www.youtube.com/results?search_query=MercyMe%20official%20artist%20channel","g":"https://www.google.com/search?q=site%3Ayoutube.com%2F%40%20%22MercyMe%22%20official"},{"r":72,"a":"Tears For Fears","h":3.6,"q":"https://www.youtube.com/results?search_query=Tears%20For%20Fears%20official%20artist%20channel","g":"https://www.google.com/search?q=site%3Ayoutube.com%2F%40%20%22Tears%20For%20Fears%22%20official"}];
